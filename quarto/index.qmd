@@ -5,7 +5,6 @@ title: "Hologen"
 Open online resource for training materials in the the [*Hologen* MSCA
 Doctoral Network](https://www.hologen-network.eu/).
 
-
 # Copenhagen, May 5-9, 2025
 
 Links to the training material will be added soon:
