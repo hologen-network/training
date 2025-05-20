@@ -11,8 +11,6 @@ Links to the training material will be added soon:
 
 - Program
 - Presentation slides
-- Practicals
-
 
 ![Hologen](images/hologen-logo-web-1000x160.png){width=20% fig-align="left"}  
 
