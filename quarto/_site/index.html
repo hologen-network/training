@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.6.40">
+<meta name="generator" content="quarto-1.6.33">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -35,10 +35,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-549806ee2085284f45b00abea8c6df48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-07ba0ad10f5680c660e360ac31d2f3b6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-f4092d2ed029f31bb39dbd5987d549ca.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-8bda806db8b623a4dafb352339cca83f.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -93,6 +93,10 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
+    <a class="nav-link" href="./material/"> 
+<span class="menu-text">Materials</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="./about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
@@ -112,7 +116,10 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#copenhagen-may-5-9-2025" id="toc-copenhagen-may-5-9-2025" class="nav-link active" data-scroll-target="#copenhagen-may-5-9-2025">Copenhagen, May 5-9, 2025</a></li>
+  <li><a href="#copenhagen-may-5-9-2025" id="toc-copenhagen-may-5-9-2025" class="nav-link active" data-scroll-target="#copenhagen-may-5-9-2025">Copenhagen, May 5-9, 2025</a>
+  <ul class="collapse">
+  <li><a href="#training-material" id="toc-training-material" class="nav-link" data-scroll-target="#training-material">Training Material</a></li>
+  </ul></li>
   </ul>
 </nav>
     </div>
@@ -141,11 +148,11 @@ ul.task-list li input[type="checkbox"] {
 <p>Open online resource for training materials in the the <a href="https://www.hologen-network.eu/"><em>Hologen</em> MSCA Doctoral Network</a>.</p>
 <section id="copenhagen-may-5-9-2025" class="level1">
 <h1>Copenhagen, May 5-9, 2025</h1>
-<p>Links to the training material will be added soon:</p>
+<section id="training-material" class="level3">
+<h3 class="anchored" data-anchor-id="training-material">Training Material</h3>
 <ul>
-<li>Program</li>
-<li>Presentation slides</li>
-<li>Practicals</li>
+<li><a href="material/2025_May_CPH/Program.pdf">Program (PDF)</a></li>
+<li><a href="material/2025_May_CPH/">Presentation material folder</a></li>
 </ul>
 <div class="quarto-figure quarto-figure-left">
 <figure class="figure">
@@ -155,6 +162,7 @@ ul.task-list li input[type="checkbox"] {
 </div>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->
@@ -240,6 +248,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -350,6 +360,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
+      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
