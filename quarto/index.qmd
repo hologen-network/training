@@ -10,7 +10,7 @@ Doctoral Network](https://www.hologen-network.eu/).
 ### Training Material
 
 - [Program (PDF)](material/Program.pdf)
-- [Presentation material folder](https://github.com/hologen-network/training/tree/main/docs/material/2025_May_CPH_Training_Materials)
+- [Presentation material folder](https://github.com/hologen-network/training/tree/main/docs/material/training_material)
 
 ![Hologen](images/hologen-logo-web-1000x160.png){width=20% fig-align="left"}  
 
