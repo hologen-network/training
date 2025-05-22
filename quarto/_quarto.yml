@@ -9,8 +9,6 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: material/
-        text: Materials
       - about.qmd
 
 format:
