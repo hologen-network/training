@@ -7,10 +7,10 @@ Doctoral Network](https://www.hologen-network.eu/).
 
 # Copenhagen, May 5-9, 2025
 
-Links to the training material will be added soon:
+### Training Material
 
-- Program
-- Presentation slides
+- [Program (PDF)](material/2025_May_CPH/Program.pdf)
+- [Presentation material folder](material/2025_May_CPH/)
 
 ![Hologen](images/hologen-logo-web-1000x160.png){width=20% fig-align="left"}  
 
