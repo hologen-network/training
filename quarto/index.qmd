@@ -5,12 +5,15 @@ title: "Hologen"
 Open online resource for training materials in the the [*Hologen* MSCA
 Doctoral Network](https://www.hologen-network.eu/).
 
-# Copenhagen, May 5-9, 2025
 
-### Training Material
+Training events:
 
-- [Program (PDF)](https://github.com/hologen-network/training/tree/main/docs/material/Program.pdf)
-- [Presentation material folder](https://github.com/hologen-network/training/tree/main/docs/material/training_material)
+ * Leuven, Oct 19-23, 2026
+ * Turku, May 26-29, 2026
+ * Barcelona, Nov 10-14, 2025
+ * Copenhagen, May 5-9, 2025
+
+Material for all events are available at the [presentation folder](https://github.com/hologen-network/training/tree/main/docs/material/training_material)
 
 ![Hologen](images/hologen-logo-web-1000x160.png){width=20% fig-align="left"}  
 
