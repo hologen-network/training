@@ -1,15 +1,8 @@
 project:
   type: website
-  resources:
-    - material/**
 
 website:
-  title: "train"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+  title: "HoloGen training materials"
 
 format:
   html:
@@ -18,6 +11,3 @@ format:
       - brand
     css: styles.css
     toc: true
-
-
-

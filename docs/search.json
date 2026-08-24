@@ -1,16 +1,37 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "This project has received funding from the European Union’s Horizon 2023 program under grant agreement No 101169005.\n\n\n\nHologen"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Hologen",
+    "title": "HoloGen training materials",
     "section": "",
-    "text": "Open online resource for training materials in the the Hologen MSCA Doctoral Network.\n\nCopenhagen, May 5-9, 2025\n\nTraining Material\n\nProgram (PDF)\nPresentation material folder\n\n\n\n\nHologen"
+    "text": "Open online resource for training materials from the HoloGen MSCA Doctoral Network. Each retreat below lists its full programme of lectures and workshops. Slides are linked where the presenter has agreed to share them openly; sessions without a link have no slides published.\nRetreat dates are listed on the events page."
+  },
+  {
+    "objectID": "index.html#copenhagen-2025",
+    "href": "index.html#copenhagen-2025",
+    "title": "HoloGen training materials",
+    "section": "Retreat 1 — Introduction to Hologenomics",
+    "text": "Retreat 1 — Introduction to Hologenomics\nCopenhagen, May 2025. Programme\n\nTorgeir Hvidsten — Introduction to HoloGen & MSCA green charter guidelines\nOstaizka Aizpurua — Theoretical and practical introduction to hologenomics\nMarc Marti-Renom — Workshop: Individual PhD project presentations\nTorgeir Hvidsten — About HoloGen training network (symposium)\nLindsay Hall — Shaping the infant hologenome (symposium)\nKaroline Faust — Interactions between human gut microbes (symposium)\nOstaizka Aizpurua — Seizing causality (symposium)\nGareth Difford — Quantifying host genetic and microbial contributions to trait variance (symposium)\nLeo Lahti — Statistical programming framework for multi-source data integration (symposium)\nAki Havulinna — Bayesian disease mapping for hologenomics in Finland (symposium)\nKati Hanhineva — Metabolomics analytics (symposium)\nSimen Rød Sandve — Atlantic salmon (symposium)\nMarc Marti-Renom — The discovery of fossil chromosomes (symposium)\nAntton Alberdi — A PhD student’s voyage: purpose, strategy, task management\nOstaizka Aizpurua — Research ethics\nAntton Alberdi — Task and conflict management (video)\nLeo Lahti — Introduction to code and data management I & II\nLeo Lahti — Introduction to statistical concepts and methods\nAntton Alberdi — A PhD student’s voyage II\nTorgeir Hvidsten — HoloGen going forward"
+  },
+  {
+    "objectID": "index.html#barcelona-2025",
+    "href": "index.html#barcelona-2025",
+    "title": "HoloGen training materials",
+    "section": "Retreat 2 — High-Throughput Profiling",
+    "text": "Retreat 2 — High-Throughput Profiling\nBarcelona, November 2025. Programme\n\nTorgeir Hvidsten — Introduction to HoloGen\nPranvera Hiseni — Industry: Genetic Analysis\nKati Hanhineva — Industry: Afekta\nNicole Reisinger — Industry: DSM-Firmenich\nOstaizka Aizpurua — Industry: Ziba\nOstaizka Aizpurua — Sequencing technologies for hologenomics\nOstaizka Aizpurua — Workshop: Metagenomics — data generation and design considerations\nLeo Lahti — Workshop: Metagenomics — downstream data analysis\nNikolai (CNAG) — Workshop: Modelling the intestinal environment with Gorgona\nWorkshop: Communicating Across Cultures\nTorgeir Hvidsten — HoloGen going forward"
+  },
+  {
+    "objectID": "index.html#turku-2026",
+    "href": "index.html#turku-2026",
+    "title": "HoloGen training materials",
+    "section": "Retreat 3 — Data analysis and Open Science",
+    "text": "Retreat 3 — Data analysis and Open Science\nTurku, May 2026. Programme\n\nLeo Lahti — Welcome & introduction\nLindsay Hall — Communication activities & storyboarding\nSusanna Repo (ELIXIR) — Data management, database resources in life sciences\nKaroline Faust — Methods for studying host–microbiota interactions"
+  },
+  {
+    "objectID": "index.html#leuven-2026",
+    "href": "index.html#leuven-2026",
+    "title": "HoloGen training materials",
+    "section": "Retreat 4 — Dissemination, Exploitation and Communication",
+    "text": "Retreat 4 — Dissemination, Exploitation and Communication\nLeuven, October 2026. Preliminary programme\n\nTorgeir Hvidsten — Announcements\nLindsay Hall — Science communication and outreach\nLindsay Hall / Jennifer — Workshop: Scientific writing exercise\nTina — DCs meet the PhD coordinator: career development\nKaroline Faust — Welcome and introduction to community modelling\nKsenia Guseva — Metacommunities of soil microbiomes: patterns, processes and implications for inference\nJulien Tap — Multiscale associations between diet and the gut microbiome in a nationwide French cohort\nLulla Opatowski — Application of meta-community modelling to pathogens spreading in hospitals\nKsenia Guseva / Karoline Faust — Workshop: Tutorial on community modelling\nLeo Lahti — Methods and strategies of scientific data visualisation\nSimen Rød Sandve — Best practices for not failing with PowerPoint presentations\nAki Havulinna — Application case: species distribution modelling and visualisation\nJan Aerts (KU Leuven) — Introduction to data visualisation techniques\nIvo De Baere (KU Leuven) — Presentation on patents, with notes on copyright and trademarks\nTorgeir Hvidsten — Wrap-up\n\n\n\n\nHoloGen\n\n\nThis project has received funding from the European Union’s Horizon 2023 programme under grant agreement No 101169005."
   }
 ]
