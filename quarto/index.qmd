@@ -28,7 +28,7 @@ Copenhagen, May 2025. [Programme](material/training_material/2025-Copenhagen/Pro
 - Ostaizka Aizpurua — Seizing causality *(symposium)*
 - Gareth Difford — Quantifying host genetic and microbial contributions to trait variance *(symposium)*
 - Leo Lahti — [Statistical programming framework for multi-source data integration](material/training_material/2025-Copenhagen/Day2_Statistical_programming_framework.pdf) *(symposium)*
-- Aki Havulinna — Bayesian disease mapping for hologenomics in Finland *(symposium)*
+- Aki Havulinna — [Bayesian disease mapping for hologenomics in Finland](material/training_material/2025-Copenhagen/Day2_Bayesian_disease_mapping.pptx) *(symposium)*
 - Kati Hanhineva — [Metabolomics analytics](material/training_material/2025-Copenhagen/Day2_Metabolomics_analytics.pptx) *(symposium)*
 - Simen Rød Sandve — Atlantic salmon *(symposium)*
 - Marc Marti-Renom — The discovery of fossil chromosomes *(symposium)*
@@ -62,7 +62,7 @@ Turku, May 2026. [Programme](material/training_material/2026-Turku/Program.pdf)
 
 - Leo Lahti — [Welcome & introduction](material/training_material/2026-Turku/Day1_Introduction.pptx)
 - Lindsay Hall — Communication activities & storyboarding
-- Susanna Repo (ELIXIR) — Data management, database resources in life sciences
+- Susanna Repo (ELIXIR) — [Data management, database resources in life sciences](material/training_material/2026-Turku/Day2_Data_management_and_database_resources.pdf)
 - Karoline Faust — [Methods for studying host–microbiota interactions](material/training_material/2026-Turku/Day3_Methods_for_studying_host_microbiota_interactions.pdf)
 
 ## Retreat 4 — Dissemination, Exploitation and Communication {#leuven-2026}
