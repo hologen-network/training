@@ -62,7 +62,7 @@ Turku, May 2026. [Programme](material/training_material/2026-Turku/Program.pdf)
 
 - Leo Lahti — [Welcome & introduction](material/training_material/2026-Turku/Day1_Introduction.pptx)
 - Lindsay Hall — Communication activities & storyboarding
-- Susanna Repo (ELIXIR) — Data management, database resources in life sciences
+- Susanna Repo (ELIXIR) — [Data management, database resources in life sciences](material/training_material/2026-Turku/Day2_Data_management_and_database_resources.pdf)
 - Karoline Faust — [Methods for studying host–microbiota interactions](material/training_material/2026-Turku/Day3_Methods_for_studying_host_microbiota_interactions.pdf)
 
 ## Retreat 4 — Dissemination, Exploitation and Communication {#leuven-2026}
