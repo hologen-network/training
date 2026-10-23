@@ -67,21 +67,20 @@ Turku, May 2026. [Programme](material/training_material/2026-Turku/Program.pdf)
 
 ## Retreat 4 — Dissemination, Exploitation and Communication {#leuven-2026}
 
-Leuven, October 2026. [Preliminary programme](material/training_material/2026-Leuven/Program.pdf)
+Leuven, October 2026. [Programme](material/training_material/2026-Leuven/Program.pdf)
 
 - Torgeir Hvidsten — Announcements
-- Lindsay Hall — Science communication and outreach
-- Lindsay Hall / Jennifer — Workshop: Scientific writing exercise
-- Tina — DCs meet the PhD coordinator: career development
-- Karoline Faust — Welcome and introduction to community modelling
-- Ksenia Guseva — Metacommunities of soil microbiomes: patterns, processes and implications for inference
-- Julien Tap — Multiscale associations between diet and the gut microbiome in a nationwide French cohort
-- Lulla Opatowski — Application of meta-community modelling to pathogens spreading in hospitals
+- Jenni Rant — Science communication and outreach
+- Jenni Rant — Workshop: Scientific writing exercise
+- Tina Tuveng — DCs meet the PhD coordinator: career development
+- Karoline Faust — Welcome and introduction to community modelling *(symposium)*
+- Ksenia Guseva — Metacommunities of soil microbiomes: patterns, processes and implications for inference *(symposium)*
+- Julien Tap — Multiscale associations between diet and the gut microbiome in a nationwide French cohort *(symposium)*
+- Lulla Opatowski — Application of meta-community modelling to pathogens spreading in hospitals *(symposium)*
 - Ksenia Guseva / Karoline Faust — Workshop: Tutorial on community modelling
-- Leo Lahti — Methods and strategies of scientific data visualisation
-- Simen Rød Sandve — Best practices for not failing with PowerPoint presentations
-- Aki Havulinna — Application case: species distribution modelling and visualisation
-- Jan Aerts (KU Leuven) — Introduction to data visualisation techniques
+- Jan Aerts (KU Leuven) — Introduction to data visualisation
+- Leo Lahti — [Storytelling with data I & II](material/training_material/2026-Leuven/Day4_Storytelling_with_data.pdf)
+- Aki Havulinna — Species distribution: modelling and visualisation
 - Ivo De Baere (KU Leuven) — Presentation on patents, with notes on copyright and trademarks
 - Torgeir Hvidsten — Wrap-up
 
