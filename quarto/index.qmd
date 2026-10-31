@@ -73,7 +73,7 @@ Leuven, October 2026. [Programme](material/training_material/2026-Leuven/Program
 - Jenni Rant — Science communication and outreach
 - Jenni Rant — Workshop: Scientific writing exercise
 - Tina Tuveng — DCs meet the PhD coordinator: career development
-- Karoline Faust — Welcome and introduction to community modelling *(symposium)*
+- Karoline Faust — [Welcome and introduction to community modelling](material/training_material/2026-Leuven/Day3_Introduction_to_microbial_metacommunity_modelling.pptx) *(symposium)*
 - Ksenia Guseva — Metacommunities of soil microbiomes: patterns, processes and implications for inference *(symposium)*
 - Julien Tap — Multiscale associations between diet and the gut microbiome in a nationwide French cohort *(symposium)*
 - Lulla Opatowski — Application of meta-community modelling to pathogens spreading in hospitals *(symposium)*
