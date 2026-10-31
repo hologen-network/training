@@ -75,10 +75,10 @@ Leuven, October 2026. [Programme](material/training_material/2026-Leuven/Program
 - Tina Tuveng — DCs meet the PhD coordinator: career development
 - Karoline Faust — [Welcome and introduction to community modelling](material/training_material/2026-Leuven/Day3_Introduction_to_microbial_metacommunity_modelling.pptx) *(symposium)*
 - Ksenia Guseva — Metacommunities of soil microbiomes: patterns, processes and implications for inference *(symposium)*
-- Julien Tap — Multiscale associations between diet and the gut microbiome in a nationwide French cohort *(symposium)*
+- Julien Tap — [Multiscale associations between diet and the gut microbiome in a nationwide French cohort](material/training_material/2026-Leuven/Day3_Diet_and_gut_microbiome_French_cohort.pptx) *(symposium)*
 - Lulla Opatowski — Application of meta-community modelling to pathogens spreading in hospitals *(symposium)*
 - Ksenia Guseva / Karoline Faust — Workshop: Tutorial on community modelling
-- Jan Aerts (KU Leuven) — Introduction to data visualisation
+- Jan Aerts (KU Leuven) — [Introduction to data visualisation](material/training_material/2026-Leuven/Day4_Introduction_to_data_visualisation.pdf)
 - Leo Lahti — [Storytelling with data I & II](material/training_material/2026-Leuven/Day4_Storytelling_with_data.pdf)
 - Aki Havulinna — Species distribution: modelling and visualisation
 - Ivo De Baere (KU Leuven) — Presentation on patents, with notes on copyright and trademarks
